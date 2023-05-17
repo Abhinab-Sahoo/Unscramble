@@ -1,8 +1,6 @@
 Unscramble App
 ===================================
 
-Starter code for Android Basics codelab - Store the data in a ViewModel
-
 Unscramble is  a single player game app that displays scrambled words. To play the game, player has
 to make a word using all the letters from the displayed scrambled word.
 
@@ -24,6 +22,21 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+2. Clone the repository to your local machine.
+3. Open the project in Android Studio.
+4. Build and run the app on an Android device or emulator.
+
+## Screenshots
+
+<img src="https://github.com/Abhinab-Sahoo/Unscramble/assets/102297793/299a7d1b-81a0-4ca6-9387-f9e71378dd8d" alt="Screenshot 1" width="200">
+<img src="https://github.com/Abhinab-Sahoo/Unscramble/assets/102297793/ef2b733d-ac8a-49db-bee4-48dd37ae0b58" alt="Screenshot 1" width="200">
+<img src="https://github.com/Abhinab-Sahoo/Unscramble/assets/102297793/46be5018-c0d3-4288-8814-53d7cf917d08" alt="Screenshot 1" width="200">
+
+
+## Acknowledgements
+
+The development of this app was inspired by Android development tutorials and resources.
+Special thanks to the Android developer community for sharing their knowledge and insights.
 
 License
 -------
